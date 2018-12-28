@@ -20,6 +20,15 @@
 
     </android.support.design.widget.AppBarLayout>
 
-    <include layout="@layout/content_main" />
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/content_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
 
 </android.support.design.widget.CoordinatorLayout>
+
+
+
+

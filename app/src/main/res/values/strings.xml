@@ -8,4 +8,12 @@
     <string name="action_settings">Settings</string>
     <string name="activityInfo">Aplicacion realizada por Jesus Tovar y Carlos Guillen para la signatura de
         Arquitecturas y Servicios para Entornos Empresariales</string>
+    <string name="nightmode">Night Mode</string>
+    <string name="nightmode_sum">Activate the night mode to dim the screem</string>
+    <string name="username">User name</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <!-- Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
