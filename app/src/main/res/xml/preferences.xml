@@ -12,5 +12,6 @@
         android:key="pref_username"
         android:selectAllOnFocus="true"
         android:singleLine="true"
-        android:title="@string/username" />
+        android:title="@string/username"
+        android:summary="Introduce el nombre de usuario"/>
 </PreferenceScreen>

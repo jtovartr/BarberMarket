@@ -64,10 +64,10 @@ public class MainActivity extends AppCompatActivity
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
-            getFragmentManager().beginTransaction()
-                    .replace(android.R.id.content, new SettingsFragment())
-                    .addToBackStack(null)
-                    .commit();
+
+            Intent i = new Intent(this, SettingsActivity.class);
+            startActivity(i);
+
             return true;
         }
 

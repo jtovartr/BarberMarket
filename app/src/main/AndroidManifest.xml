@@ -23,7 +23,9 @@
         </activity>
         <activity android:name=".InfoClass" />
         <activity android:name=".MainPeluquerias" />
-        <activity android:name=".PeluqueriaDetalleActivity"></activity>
+        <activity android:name=".PeluqueriaDetalleActivity" />
+        <activity android:name=".AddToDoActivity" />
+        <activity android:name=".SettingsActivity"></activity>
     </application>
 
 </manifest>
